@@ -1,4 +1,4 @@
-env: dev
+env: dev2
 server:
   port: 9001
 spring:
