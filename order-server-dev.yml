@@ -1,4 +1,4 @@
-env: I love you very much
+env: dev
 server:
   port: 9001
 spring:
